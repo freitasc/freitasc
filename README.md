@@ -1,7 +1,7 @@
 <h1 align="center">> HELLO WORLD 👋</h1>
-<h3 align="center">My name is Cainã Freitas, I'm passionate developer from Brasilia on my way to being a Fullstack Developer</h3>
+<h3 align="center">My name is Cainã Freitas, I'm a passionate full stack developer and software engineer student from Brazil</h3>
 
-- 🌱 I’m currently learning **React Native and mobile app development!**
+- 🌱 I’m currently improving my **Javascript** skills by learning **React Native!**
 
 - 📝 I'm studying Software Engineering at **Universidade de Brasilia (UnB) (Distrito Federal, Brazil)**
 
