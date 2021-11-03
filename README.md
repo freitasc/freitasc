@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React Native and mobile app development!**
 
-- 📝 I'm studying at **Universidade de Brasilia (UnB) (Distrito Federal, Brazil)**
+- 📝 I'm studying Software Engineering at **Universidade de Brasilia (UnB) (Distrito Federal, Brazil)**
 
 - 📫 How to reach me **freitas.caina@outlook.com.br**
 
