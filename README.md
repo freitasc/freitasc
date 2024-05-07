@@ -24,6 +24,7 @@
   * Frontend: ReactJS, VueJS, Django
   * Mobile: React Native
   * DB: PostgreSQL, MySQL, MongoDB
+  * Pretty good with webcrawlers, captcha bypassing, CNN training, image treating, mobile geolocation magic, CI/CD pipelines and DevOps stuff
 
 
   </div>
