@@ -1,16 +1,31 @@
-### Hi there 👋
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/freitasc-dev)](www.linkedin.com/in/freitasc-dev)
+[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Minutemailer&logoColor=white&link=mailto:me@caina2000@gmail.com)](mailto:me@caina2000@gmail.com)
 
-<!--
-**freitasc/freitasc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="display: flex;">
+  <div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeffersonfelixdev&show_icons=true&theme=dark&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonfelixdev&layout=compact&langs_count=6&theme=dark"/>
+  </div>
+<div style="flex: 1;">
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+  ## Hello, World!
+
+  * Software Engineering Student at [University of Brasília](https://en.wikipedia.org/wiki/University_of_Bras%C3%ADlia) (my last year!)
+  * Burning passion for cinema 📺&nbsp;🎬&nbsp;
+  * Computer Hacking Enthusiast 👨‍💻&nbsp;👾&nbsp;
+  * Philosophy reading nerd (specially cybernetics and psychoanalysis) 🤓&nbsp;📚&nbsp;
+
+  ## Dev skills
+
+  * Lang: HTML/CSS/Javascript/TypeScript/Python
+  * Backend: Node.js and Django
+  * Frontend: ReactJS, VueJS, Django
+  * Mobile: React Native
+  * DB: PostgreSQL, MySQL, MongoDB
+
+
+  </div>
+  
+</div>
