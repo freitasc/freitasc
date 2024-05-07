@@ -3,7 +3,7 @@
 
 <div style="display: flex;">
   <div>
-    <img height="300em" src="https://github-readme-stats.vercel.app/api?username=freitasc&show_icons=true&theme=dark&count_private=true&show=reviews,prs_merged,prs_merged_percentage"/>
+    <img height="300em" src="https://github-readme-stats.vercel.app/api?username=freitasc&show_icons=true&theme=dark&count_private=true&show=reviews,prs_merged,prs_merged_percentage&hide=stars"/>
   </div>
 <div style="flex: 1;">
 
