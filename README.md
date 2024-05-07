@@ -13,7 +13,7 @@
 
   * Software Engineering Student at [University of Brasília](https://en.wikipedia.org/wiki/University_of_Bras%C3%ADlia) (my last year!)
   * Burning passion for cinema 📺&nbsp;🎬&nbsp;
-  * Computer Hacking Enthusiast 👨‍💻&nbsp;👾&nbsp;
+  * Cybersecurity and Red Team Enthusiast 👨‍💻&nbsp;👾&nbsp;
   * Philosophy reading nerd (specially cybernetics and psychoanalysis) 🤓&nbsp;📚&nbsp;
 
   ## Dev skills
