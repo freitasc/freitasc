@@ -16,14 +16,25 @@
   * Cybersecurity and Red Team Enthusiast 👨‍💻&nbsp;👾&nbsp;
   * Philosophy reading nerd (specially cybernetics and psychoanalysis) 🤓&nbsp;📚&nbsp;
 
+  ## Sec Skills
+  
+  * Tools: Nmap, Wireshark, Burp and ZAP, Metasploit, Ettercap, John and others
+  * SIEM: Wazuh, Elastic, Splunk
+  * NDR: Suricata, Zeek
+  * EDR: Wazuh, Elastic
+  * Know my way around firewall administration, network traffic analysis, log analysis, playbook modeling and blue team stuff
+  * Pretty good with pentesting and red team stuff, know how to write good assessments
+
+
   ## Dev skills
 
-  * Lang: HTML/CSS/Javascript/TypeScript/Python
-  * Backend: Node.js and Django
-  * Frontend: ReactJS, VueJS, Django
-  * Mobile: React Native
-  * DB: PostgreSQL, MySQL, MongoDB
-  * Pretty good with webcrawlers, captcha bypassing, CNN training, image treating, mobile geolocation magic, CI/CD pipelines and DevOps stuff
+  * Lang: Python, C/C++, Javascript/TypeScript and markups (HTML/CSS)
+  * Backend: Node, Nest, Express, Django, Flask
+  * Frontend: React, Angular, Vue
+  * Mobile: React Native, Flutter
+  * DB: PostgreSQL, Cassandra, MySQL, MongoDB
+  * Others: RabbitMQ, Elastic, Kibana, Docker, Kubernetes
+  * Pretty good with CI/CD pipelines and DevOps stuff, webcrawlers, captcha bypassing, CNN training, image treating, mobile geolocation magic
 
 
   </div>
